@@ -1,4 +1,4 @@
 # CodeAcademy
 CodeAcademy learn p5.js course
 
-will keep adding files until I finnish course.
+will keep adding files until I finnish the course.
